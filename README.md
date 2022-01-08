@@ -1,8 +1,8 @@
 # HackerRank-Solutions
 
-HackerRank Algoritm problems solved in python.
+HackerRank Algorithm problems solved in python.
 
 In Hackerrank the Algorithm section is <strong> the most competitive </strong> one.
 
-With over 9.270 practitioners only in Greece
+With over 9.270 practitioners only in Greece and over 4.000.000 around the world
 
