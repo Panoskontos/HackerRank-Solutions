@@ -5,7 +5,7 @@ HackerRank Algorithm problems solved in python.
 In Hackerrank the Algorithm section is <strong> the most competitive </strong> one.
 
 
-My current rank is at <strong> top 1% </strong> currently standing at the <strong> 79th </strong> position in Greece
+My current rank is at <strong> top 1% </strong> currently standing at the <strong> 71th </strong> position in Greece
 
 ![h2](https://user-images.githubusercontent.com/65974766/149642573-cbeacec2-24b2-46ce-905b-756ad65243c5.png)
 
