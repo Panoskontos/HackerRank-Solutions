@@ -1,12 +1,14 @@
 # HackerRank-Solutions
 
-HackerRank Algorithm problems solved in python.
+HackerRank is a website to train your programming skills and compete with other developers with over 4 million users worldwide 
+
+https://www.hackerrank.com/leaderboard
 
 #  Algorithms
 
 -----------
 
-In Hackerrank the Algorithm section is <strong> the most competitive </strong> one.
+The Algorithm section is <strong> the most competitive </strong> one.
 
 My current rank is below <strong> top 1% </strong> currently standing at the <strong> 66th </strong> position in over 9.200 programmersin Greece
 
