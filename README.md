@@ -7,7 +7,7 @@ In Hackerrank the Algorithm section is <strong> the most competitive </strong> o
 
 My current rank is at <strong> top 1% </strong> currently standing at the <strong> 71th </strong> position in Greece
 
-![h2](https://user-images.githubusercontent.com/65974766/149642573-cbeacec2-24b2-46ce-905b-756ad65243c5.png)
+![h3](https://user-images.githubusercontent.com/65974766/150718334-5385b0ac-4108-4a7b-a8f5-306d6d1c8016.png)
 
 
 With over 9.200 practitioners only in Greece and over 4.000.000 around the world
