@@ -2,7 +2,7 @@
 
 HackerRank is a website to train your programming skills and compete with other developers with over 4 million users worldwide 
 
-https://www.hackerrank.com/leaderboard
+https://www.hackerrank.com/leaderboard?filter=Greece&filter_on=country&page=1&track=algorithms&type=practice
 
 #  Algorithms
 
