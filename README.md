@@ -12,7 +12,9 @@ The Algorithm section is <strong> the most competitive </strong> one.
 
 With over 9.200 programmers in Greece my current rank is below <strong> top 1% </strong> currently standing at the <strong> 48th </strong> position 
 
-![h3](https://user-images.githubusercontent.com/65974766/150718334-5385b0ac-4108-4a7b-a8f5-306d6d1c8016.png)
+<br>
+
+![top50](https://user-images.githubusercontent.com/65974766/151692932-36ffc92f-241c-457c-984b-3c174541ffa8.png)
 
 
 <br><br>
